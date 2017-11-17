@@ -12,4 +12,3 @@ RUN yum update -y
 
 RUN yum install mysql-server -y
 
-ENTRYPOINT bash
